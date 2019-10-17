@@ -36,7 +36,7 @@
 
     <div class="site-mobile-menu site-navbar-target">
       <div class="site-mobile-menu-header">
-        <div class="site-mobile-menu-close mt-3">
+        <div class="site-mobile-menu-close omt-3">
           <span class="icon-close2 js-menu-toggle"></span>
         </div>
       </div>
@@ -45,14 +45,14 @@
 
 
 
-    <header class="site-navbar site-navbar-target" role="banner">
+   <header class="site-navbar site-navbar-target" role="banner">
 
-      <div class="container">
+     <div class="container">
         <div class="row align-items-center position-relative">
 
           <div class="col-3 ">
             <div class="site-logo">
-              <a href="index.html">Tuladha</a>
+             <a href="index.html">Tuladha</a>
             </div>
           </div>
 
@@ -68,9 +68,9 @@
             <nav class="site-navigation text-right ml-auto d-none d-lg-block" role="navigation">
               <ul class="site-menu main-menu js-clone-nav ml-auto ">
                 <li class="active"><a href="index.html" class="nav-link">Home</a></li>
-                <li><a href="service.html" class="nav-link">Layanan</a></li>
+                <li><a href="layanan.html" class="nav-link">Layanan</a></li>
                 <li><a href="contact.html" class="nav-link">Kontak</a></li>
-                <li><a href="login.php" class="nav-link">Login</a></li>
+                <li><a href="logout.php" class="nav-link">Sign Out</a></li>
               </ul>
             </nav>
           </div>
