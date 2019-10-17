@@ -70,7 +70,7 @@
                 <li class="active"><a href="index.html" class="nav-link">Home</a></li>
                 <li><a href="layanan.html" class="nav-link">Layanan</a></li>
                 <li><a href="contact.html" class="nav-link">Kontak</a></li>
-                <li><a href="login.php" class="nav-link">Login</a></li>
+                <li><a href="logout.php" class="nav-link">Sing Out</a></li>
               </ul>
             </nav>
           </div>
