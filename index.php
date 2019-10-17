@@ -28,7 +28,7 @@
   <?php
   session_start();
   if(! isset($_SESSION['username'])){
-  header("location:index.html");
+  header("location:login.php");
 };
   ?>
 
@@ -68,9 +68,9 @@
             <nav class="site-navigation text-right ml-auto d-none d-lg-block" role="navigation">
               <ul class="site-menu main-menu js-clone-nav ml-auto ">
                 <li class="active"><a href="index.html" class="nav-link">Home</a></li>
-                <li><a href="layanan.html" class="nav-link">Layanan</a></li>
+                <li><a href="service.html" class="nav-link">Layanan</a></li>
                 <li><a href="contact.html" class="nav-link">Kontak</a></li>
-                <li><a href="logout.php" class="nav-link">Sing Out</a></li>
+                <li><a href="login.php" class="nav-link">Login</a></li>
               </ul>
             </nav>
           </div>
@@ -152,7 +152,7 @@
 
           <div class="service-39290 d-flex align-items-start mb-5">
             <div class="media-icon mr-4">
-              <span class="flaticon-atom"></span>
+              <span class="flaticon-house-1"></span>
             </div>
             <div class="text">
               <h3>Misi</h3>
@@ -162,7 +162,7 @@
 
           <div class="service-39290 d-flex align-items-start mb-5">
             <div class="media-icon  mr-4">
-              <span class="flaticon-dna"></span>
+              <span class="flaticon-calculator"></span>
             </div>
             <div class="text">
               <h3>Visi</h3>
@@ -197,28 +197,26 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="post-entry-1 h-100">
-                <a href="perbaikan.html">
+                <a href="single.html">
                   <img src="images/mathematics.jpg" alt="Image" class="img-fluid">
                 </a>
                 <div class="post-entry-1-contents">
 
                   <h2><a href="#">Matematika</a></h2>
-                  <span class="meta d-inline-block mb-3">Rp.250.000 <span class="mx-2">oleh</span> <a
-                      href="#">Suryadhara</a></span>
+                  <span class="meta d-inline-block mb-3">Rp.250.000 <span class="mx-2">oleh Suryadhara</span> </span>
                   <p>Kalkulus</p>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="post-entry-1 h-100">
-                <a href="perbaikan.html">
+                <a href="single.html">
                   <img src="images/chemistry.jpg" alt="Image" class="img-fluid">
                 </a>
                 <div class="post-entry-1-contents">
 
                   <h2><a href="#">Kimia</a></h2>
-                  <span class="meta d-inline-block mb-3">Rp.200.000 <span class="mx-2">oleh</span>
-                  <a href="#">Jepp Besoz</a></span>
+                  <span class="meta d-inline-block mb-3">Rp.200.000 <span class="mx-2">oleh Jepp Besoz</span></span>
                   <p>Sifat Koligatif</p>
                 </div>
               </div>
@@ -226,14 +224,13 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="post-entry-1 h-100">
-                <a href="perbaikan.html">
+                <a href="single.html">
                   <img src="images/physics.jpg" alt="Image" class="img-fluid">
                 </a>
                 <div class="post-entry-1-contents">
 
                   <h2><a href="#">Fisika</a></h2>
-                  <span class="meta d-inline-block mb-3">Rp.300.000 <span class="mx-2">oleh</span> <a
-                      href="#">Ahmad Jepri</a></span>
+                  <span class="meta d-inline-block mb-3">Rp.300.000 <span class="mx-2">oleh Ahmad Jepri</span> </span>
                   <p>Relativitas</p>
                 </div>
               </div>
@@ -258,11 +255,11 @@
             <div class="col-md-3 ml-auto">
               <h3 class="text-white h5 mb-3">Berlangganan</h3>
               <ul class="list-unstyled menu-arrow">
-                <li><a href="perbaikan.html">Tentang Kami</a></li>
-                <li><a href="perbaikan.html">Testimoni</a></li>
-                <li><a href="perbaikan.html">Terms of Service</a></li>
-                <li><a href="perbaikan.html">Privasi</a></li>
-                <li><a href="perbaikan.html">Hubungi Kami</a></li>
+                <li><a href="#">Tentang Kami</a></li>
+                <li><a href="#">Testimoni</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Privasi</a></li>
+                <li><a href="#">Hubungi Kami</a></li>
               </ul>
             </div>
             <div class="col-md-4">
