@@ -68,7 +68,7 @@
             <nav class="site-navigation text-right ml-auto d-none d-lg-block" role="navigation">
               <ul class="site-menu main-menu js-clone-nav ml-auto ">
                 <li class="active"><a href="index.html" class="nav-link">Home</a></li>
-                <li><a href="service.html" class="nav-link">Layanan</a></li>
+                <li><a href="layanan.html" class="nav-link">Layanan</a></li>
                 <li><a href="contact.html" class="nav-link">Kontak</a></li>
                 <li><a href="login.php" class="nav-link">Login</a></li>
               </ul>
@@ -152,7 +152,7 @@
 
           <div class="service-39290 d-flex align-items-start mb-5">
             <div class="media-icon mr-4">
-              <span class="flaticon-house-1"></span>
+              <span class="flaticon-atom"></span>
             </div>
             <div class="text">
               <h3>Misi</h3>
@@ -162,7 +162,7 @@
 
           <div class="service-39290 d-flex align-items-start mb-5">
             <div class="media-icon  mr-4">
-              <span class="flaticon-calculator"></span>
+              <span class="flaticon-dna"></span>
             </div>
             <div class="text">
               <h3>Visi</h3>
