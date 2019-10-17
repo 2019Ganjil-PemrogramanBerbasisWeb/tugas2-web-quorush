@@ -197,7 +197,7 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="post-entry-1 h-100">
-                <a href="single.html">
+                <a href="perbaikan.html">
                   <img src="images/mathematics.jpg" alt="Image" class="img-fluid">
                 </a>
                 <div class="post-entry-1-contents">
@@ -211,7 +211,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="post-entry-1 h-100">
-                <a href="single.html">
+                <a href="perbaikan.html">
                   <img src="images/chemistry.jpg" alt="Image" class="img-fluid">
                 </a>
                 <div class="post-entry-1-contents">
@@ -226,7 +226,7 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="post-entry-1 h-100">
-                <a href="single.html">
+                <a href="perbaikan.html">
                   <img src="images/physics.jpg" alt="Image" class="img-fluid">
                 </a>
                 <div class="post-entry-1-contents">
@@ -258,11 +258,11 @@
             <div class="col-md-3 ml-auto">
               <h3 class="text-white h5 mb-3">Berlangganan</h3>
               <ul class="list-unstyled menu-arrow">
-                <li><a href="#">Tentang Kami</a></li>
-                <li><a href="#">Testimoni</a></li>
-                <li><a href="#">Terms of Service</a></li>
-                <li><a href="#">Privasi</a></li>
-                <li><a href="#">Hubungi Kami</a></li>
+                <li><a href="perbaikan.html">Tentang Kami</a></li>
+                <li><a href="perbaikan.html">Testimoni</a></li>
+                <li><a href="perbaikan.html">Terms of Service</a></li>
+                <li><a href="perbaikan.html">Privasi</a></li>
+                <li><a href="perbaikan.html">Hubungi Kami</a></li>
               </ul>
             </div>
             <div class="col-md-4">
