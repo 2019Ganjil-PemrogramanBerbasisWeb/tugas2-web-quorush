@@ -8,6 +8,8 @@ include 'conn.php';
 $username = $_POST['username'];
 $password = $_POST['password'];
 
+//memeriksa data 
+
 //seleksi dengan data yang sesuai
 $data = mysqli_query($link, " SELECT * FROM users WHERE username='$username' AND password='$password'");
 
@@ -24,6 +26,6 @@ if($cek > 0)
   header("location:index.php");
 }
 else {
-header("location:log.php?pesan=gagal");
+  echo '<p>Data yang Anda Masukkan Salah</p><br><a href="login.php">Kembali</a>'; 
 }
 ?>
