@@ -26,6 +26,6 @@ if($cek > 0)
   header("location:index.php");
 }
 else {
-  echo '<p>Data yang Anda Masukkan Salah</p><br><a href="login.php">Kembali</a>'; 
+  echo '<p>Data yang anda masukkan salah</p><br><a href="login.php">Kembali</a>'; 
 }
 ?>
