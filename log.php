@@ -21,7 +21,7 @@ if($cek > 0)
   $_SESSION['status'] = "Login";
 
   setcookie("mesage", "delete", time()-1); //hapus pesan setcookie
-  header("location:index.php");
+  header("location:index.html");
 }
 else {
   echo $username.$password;
