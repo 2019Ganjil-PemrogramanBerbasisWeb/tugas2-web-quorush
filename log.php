@@ -2,16 +2,14 @@
 //akitfkan session php
 
 //hubungkan dengan koneksi
-include 'conn.php';
+include 'connect.php';
 
 //mengambil data di form
 $username = $_POST['username'];
 $password = $_POST['password'];
 
-//memeriksa data 
-
 //seleksi dengan data yang sesuai
-$data = mysqli_query($link, " SELECT * FROM users WHERE username='$username' AND password='$password'");
+$data = mysqli_query($link, " SELECT * FROM datas WHERE name='$username' AND password='$password'");
 
 //hitung data
 $cek = mysqli_num_rows($data);
@@ -26,6 +24,7 @@ if($cek > 0)
   header("location:index.php");
 }
 else {
-  echo '<p>Data yang anda masukkan salah</p><br><a href="login.php">Kembali</a>'; 
+  echo $username.$password;
+header("location:log.php?pesan=gagal");
 }
 ?>
