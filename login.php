@@ -59,7 +59,7 @@
 
 						<div class="container-login100-form-btn">
 							<a href="index.php">
-							<input type="submit" class="login100-form-btn" value="Log In" >
+							<input type="submit" class="login100-form-btn" value="LogIn" >
 						</a>
 						</div>
 
