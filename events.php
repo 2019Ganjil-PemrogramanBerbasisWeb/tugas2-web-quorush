@@ -17,7 +17,7 @@
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="images/logo-tuladha.png" type="image/x-icon"/>
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 
     <!-- Google Fonts -->
@@ -114,14 +114,14 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Course Pages</h4>
                                                     <ul>
-                                                      <li><a >Mathematics</a></li>
-                                                      <li><a >Physics</a></li>
-                                                      <li><a >Biology</a></li>
-                                                      <li><a >Chemistry</a></li>
-                                                      <li><a >Bahasa Indonesia</a></li>
-                                                      <li><a >English</a></li>
-                                                      <li><a >Programming</a></li>
-                                                      <li><a >Medical</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">Mathematics</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">Physics</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">Biology</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">Chemistry</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">Bahasa Indonesia</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">English</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">Programming</a></li>
+                                                      <li><a href="css\comingsoon_05\comingsoon_05\index.html">Medical</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
@@ -174,7 +174,7 @@
                             <div class="event-desc">
                             <small>Day 1</small>
                             <h4>Gathering & welcome speech</h4>
-                            <p>Ut volutpat elementum venenatis. In id neque nec tellus iaculis semper. Aenean fringilla velit ut leo luctus, blandit aliquet turpis dictum.</p>
+                            <p>Jangan lewatkan event ini dan jadikan sebagai tempat untuk mencari relasi dan teman baru sebanyak-banyaknya.</p>
                             </div>
                         </div>
                     </div><!-- end col -->
@@ -185,7 +185,8 @@
                             <div class="event-desc">
                             <small>Day 2</small>
                             <h4>Successful Marketing Strategy</h4>
-                            <p>Morbi nec ornare ipsum. Curabitur tortor sapien, faucibus commodo metus porta, venenatis lobortis nibh. Proin molestie est et nunc aliquam iaculis.</p>
+                            <p>There is hardly a small business owner who is not obsessed with this term: marketing strategy. That’s the main aspect that makes the difference between successful entrepreneurs and those that fail. It’s strange how everyone cares about discovering the perfect marketing techniques for their business, but we don’t bother realizing what marketing strategy really means.    
+Let’s start from the fundamentals. Marketing strategy is a collection of techniques that enable a particular organization to direct its resources towards the best opportunities in terms of increasing sales and achieving sustainable advantage over the competition. A company’s marketing strategy consists of long-term activities that contribute towards developing strong brand awareness. .</p>
                             </div>
                         </div>
                     </div><!-- end col -->
@@ -196,7 +197,8 @@
                             <div class="event-desc">
                             <small>Day 3</small>
                             <h4>Award and certificate distribution</h4>
-                            <p> Mauris cursus, ipsum eget mollis pretium, nisl felis rhoncus nulla, sed dignissim ligula lorem ac enim. Pellentesque quis libero feugiat, lacinia.</p>
+                            <p> Whether you’re fundraising, recognising excellence in your industry or simply saying ‘thanks’ to your staff, awards ceremonies are a brilliant way to bring everyone together for an evening of feel-good fun.
+Pulling off an Oscar-worthy awards show takes some organising, but to help you, we’ve broken the process down into 12 easily actionable steps. </p>
                             </div>
                         </div>
                     </div><!-- end col -->
@@ -334,16 +336,16 @@
                             <h3 class="widget-title">Popular Tags</h3>
                             <div class="tags-widget">
                                 <ul class="list-inline">
-                                  <li><a >Matematika</a></li>
-                                  <li><a >Bahasa Inggris</a></li>
-                                  <li><a >Bahasa Indonesia</a></li>
-                                  <li><a >Fisika</a></li>
-                                  <li><a >Kimia</a></li>
-                                  <li><a >Biologi</a></li>
-                                  <li><a >Kedokteran</a></li>
-                                  <li><a >Pemrograman</a></li>
-                                  <li><a >Desain</a></li>
-                                  <li><a >Statistik</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Matematika</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Bahasa Inggris</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Bahasa Indonesia</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Fisika</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Kimia</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Biologi</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Kedokteran</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Pemrograman</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Desain</a></li>
+                                  <li><a href="css\comingsoon_05\comingsoon_05\index.html">Statistik</a></li>
                                 </ul>
                             </div><!-- end list-widget -->
                         </div><!-- end widget -->
@@ -380,7 +382,7 @@
                     <div class="pull-right">
                         <div class="footer-links">
                             <ul class="list-inline">
-                                <li>Design : <a href="https://html.design">HTML.Design</a></li>
+                                <li>2019 made by : Quorush<a href="https://html.design"></a></li>
                             </ul>
                         </div>
                     </div>
