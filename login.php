@@ -40,7 +40,7 @@
 							<i class="zmdi zmdi-landscape"></i>
 						</span>
 
-						<span class="login100-form-title p-b-34 p-t-27">	Log in	</span>
+						<span class="login100-form-title p-b-34 p-t-27">Log in</span>
 
 						<div class="wrap-input100" data-validate = "Enter username">
 							<input class="input100" type="text" name="username" placeholder="Username">
