@@ -114,14 +114,14 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Course Pages</h4>
                                                     <ul>
-                                                        <li><a >Mathematics</a></li>
-                                                        <li><a >Physics</a></li>
-                                                        <li><a >Biology</a></li>
-                                                        <li><a >Chemistry</a></li>
-                                                        <li><a >Bahasa Indonesia</a></li>
-                                                        <li><a >English</a></li>
-                                                        <li><a >Programming</a></li>
-                                                        <li><a >Medical</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">Mathematics</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">Physics</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">Biology</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">Chemistry</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">Bahasa Indonesia</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">English</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">Programming</a></li>
+                                                        <li><a href="css\comingsoon_05\comingsoon_05\index.html">Medical</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
@@ -177,11 +177,8 @@
                             <h2>We are bringing new <mark>learning system</mark> to<br>
                             Surabaya. Learn new cool and fun stuff such as <br>
                             physics and chemsitry today</h2>
-
                             <p>Tuladha is a learning application with the most complete learning solution for all your learning difficulties. Content is available for various levels ranging from elementary, middle and high school in accordance with the national curriculum and specifically designed by the best and experienced tutor (Master Tutor). Starting from watching videos, practice exercises, private lessons, tryouts can all be accessed from your smartphone!</p>
-
                             <hr class="invis">
-
                             <div class="row">
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 first">
                                     <ul class="check">
@@ -215,7 +212,7 @@
                             <hr class="invis">
 
                             <div class="btn-wrapper">
-                                <a  class="btn btn-primary">Learn More About us</a>
+                                <a  href="css\comingsoon_05\comingsoon_05\index.html"class="btn btn-primary">Learn More About us</a>
                             </div>
 
                         </div><!-- end module -->

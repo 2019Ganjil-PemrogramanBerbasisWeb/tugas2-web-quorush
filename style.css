@@ -196,7 +196,7 @@ HEADER
 ******************************************/
 
 .topbar {
-    background-color: #000;
+    background-color: #f4abaa;
     margin-bottom: 30px;
     padding: 12px 0 14px;
 }
@@ -250,7 +250,7 @@ HEADER
     position: fixed;
     top: 0;
     z-index: 100;
-    background-color: #000;
+    background-color: #f4abaa;
     left: 0;
     padding: 15px 0;
     right: 0,
@@ -332,23 +332,23 @@ HEADER
 }
 
 .social a.facebook {
-    background-color: #3b5998;
+    background-color: #f4abaa;
 }
 
 .social a.pinterest {
-    background-color: #bd081c;
+    background-color: #f4abaa;
 }
 
 .social a.twitter {
-    background-color: #1da1f2;
+    background-color: #f4abaa;
 }
 
 .social a.google {
-    background-color: #34a853;
+    background-color: #f4abaa;
 }
 
 .social a.linkedin {
-    background-color: #0077b5;
+    background-color: #f4abaa;
 }
 
 .modal {

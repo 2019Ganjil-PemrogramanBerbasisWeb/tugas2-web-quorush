@@ -158,7 +158,7 @@
                         <div class="tagline-message event-title text-center">
                             <h3>Tuladha Meetup Event 2019</h3>
                             <p>21 - 26 Dec, 2019, Tugu Pahlawan, Surabaya - Limited number of guests</p>
-                            <a  class="btn btn-primary">GET TICKETS</a>
+                            <a href="css\comingsoon_05\comingsoon_05\index.html"class="btn btn-primary">GET TICKETS</a>
                         </div>
                     </div><!-- end col -->
                 </div><!-- end row -->
