@@ -105,10 +105,9 @@
 
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.php">Home</a></li>
+                            <li><a href="welcome.php">Home</a></li>
                             <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Courses <b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li>
                                         <div class="yamm-content clearfix">
                                             <div class="row-fluid">
                                                 <div class="col-md-6 col-sm-6">
@@ -185,7 +184,7 @@
                             <div class="event-desc">
                             <small>Day 2</small>
                             <h4>Successful Marketing Strategy</h4>
-                            <p>There is hardly a small business owner who is not obsessed with this term: marketing strategy. That’s the main aspect that makes the difference between successful entrepreneurs and those that fail. It’s strange how everyone cares about discovering the perfect marketing techniques for their business, but we don’t bother realizing what marketing strategy really means.    
+                            <p>There is hardly a small business owner who is not obsessed with this term: marketing strategy. That’s the main aspect that makes the difference between successful entrepreneurs and those that fail. It’s strange how everyone cares about discovering the perfect marketing techniques for their business, but we don’t bother realizing what marketing strategy really means.
 Let’s start from the fundamentals. Marketing strategy is a collection of techniques that enable a particular organization to direct its resources towards the best opportunities in terms of increasing sales and achieving sustainable advantage over the competition. A company’s marketing strategy consists of long-term activities that contribute towards developing strong brand awareness. .</p>
                             </div>
                         </div>
