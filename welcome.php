@@ -99,13 +99,13 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="logo-normal">
-                            <a class="navbar-brand" href="index.php"><img src= alt=""></a>
+                            <a class="navbar-brand" href="welcome.php"><img src= alt=""></a>
                         </div>
                     </div>
 
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.php">Home</a></li>
+                            <li><a href="welcome.php">Home</a></li>
                             <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Courses <b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
@@ -177,8 +177,11 @@
                             <h2>We are bringing new <mark>learning system</mark> to<br>
                             Surabaya. Learn new cool and fun stuff such as <br>
                             physics and chemsitry today</h2>
+
                             <p>Tuladha is a learning application with the most complete learning solution for all your learning difficulties. Content is available for various levels ranging from elementary, middle and high school in accordance with the national curriculum and specifically designed by the best and experienced tutor (Master Tutor). Starting from watching videos, practice exercises, private lessons, tryouts can all be accessed from your smartphone!</p>
+
                             <hr class="invis">
+
                             <div class="row">
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 first">
                                     <ul class="check">
@@ -212,7 +215,7 @@
                             <hr class="invis">
 
                             <div class="btn-wrapper">
-                                <a  href="css\comingsoon_05\comingsoon_05\index.html"class="btn btn-primary">Learn More About us</a>
+                                <a  class="btn btn-primary">Learn More About us</a>
                             </div>
 
                         </div><!-- end module -->
@@ -262,7 +265,7 @@
                     <div class="caro-item">
                         <div class="course-box">
                             <div class="image-wrap entry">
-                                <img src="upload/copper-plating.png" alt="" class="img-responsive">
+                                <img src="upload/copper-plating.jpg" alt="" class="img-responsive">
                                 <div class="magnifier">
                                      <a  title=""><i class="flaticon-add"></i></a>
                                 </div>
@@ -416,7 +419,7 @@
                             <i class="flaticon-computer-tool-for-education"></i>
                             <h4>Learning system</h4>
                             <p>All sections required for online training are included to Tuladha.</p>
-                            <a  class="readmore">Read more</a>
+
                         </div>
                     </div><!-- end col -->
 
@@ -425,7 +428,7 @@
                             <i class="flaticon-monitor-tablet-and-smartohone"></i>
                             <h4>Works on all mobile devices</h4>
                             <p>The most important feature of this template is that it is compatible with all mobile devices. Your customers can also visit your site easily from tablets and phones.</p>
-                            <a  class="readmore">Read more</a>
+
                         </div>
                     </div><!-- end col -->
 
@@ -434,7 +437,7 @@
                             <i class="flaticon-download-business-statistics-symbol-of-a-graphic"></i>
                             <h4>Online Statistics</h4>
                             <p>We designed the design of all the sub-pages needed for the users.</p>
-                            <a  class="readmore">Read more</a>
+
                         </div>
                     </div><!-- end col -->
                 </div><!-- end row -->
@@ -447,7 +450,7 @@
                             <i class="flaticon-html5"></i> <i class="flaticon-css-3"></i>
                             <h4>Compatible HTML5 & CSS3</h4>
                             <p>HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current version of the HTML standard.</p>
-                            <a  class="readmore">Read more</a>
+
                         </div>
                     </div><!-- end col -->
 
@@ -456,7 +459,7 @@
                             <i class="flaticon-html-coding"></i>
                             <h4>E-Learning Framework</h4>
                             <p>E-Learning is a technique of loading a program into a computer by means of a few initial instructions which enable the introduction of the rest of the program from an input device.</p>
-                            <a  class="readmore">Read more</a>
+
                         </div>
                     </div><!-- end col -->
                 </div><!-- end row -->
@@ -503,7 +506,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="box testimonial">
-                            <p class="testiname"><strong><img src="upload/testimonial_01.png" alt="" class="img-circle"> Setioadji Rahmawan</strong></p>
+                            <p class="testiname"><strong><img src="upload/testimonial_01.jpg" alt="" class="img-circle"> Afifah Diah</strong></p>
                             <p>Benar-benar membantu dalam mengajarkan para penggunanya dan sangat cocok sebagai cahaya baru di dunia pendidikan.</p>
                             <div class="rating">
                                 <i class="fa fa-star"></i>
@@ -517,7 +520,7 @@
 
                     <div class="col-md-4">
                         <div class="box testimonial">
-                            <p class="testiname"><strong><img src="upload/testimonial_02.png" alt="" class="img-circle"> Alfathah Fariz</strong></p>
+                            <p class="testiname"><strong><img src="upload/testimonial_02.jpg" alt="" class="img-circle"> Alfathah Fariz</strong></p>
                             <p>The best banget aplikasinya, membantu sekali waktu aku SMA udah bener-bener gabisa mikir kemana lagi. Untungnya ada Tuladha jadi nilai SBM ku tinggi.</p>
                             <div class="rating">
                                 <i class="fa fa-star"></i>
@@ -558,13 +561,12 @@
                         <div class="blog-box">
                             <div class="image-wrap entry">
                                 <img src="upload/senayan.jpg" alt="" class="img-responsive">
-                                <div class="magnifier">
-                                     <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
+                                <div class="magnifier"><i class="flaticon-add"></i></a>
                                 </div>
                             </div><!-- end image-wrap -->
 
                             <div class="blog-desc">
-                                <h4><a href="blog-single.html">Jakarta rocked by massive demonstration on Senayan</a></h4>
+                                <h4>Jakarta rocked by massive demonstration on Senayan</a></h4>
 
                             </div><!-- end blog-desc -->
 
@@ -582,13 +584,12 @@
                         <div class="blog-box">
                             <div class="image-wrap entry">
                                 <img src="upload/juara.jpg" alt="" class="img-responsive">
-                                <div class="magnifier">
-                                     <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
+                                <div class="magnifier"><i class="flaticon-add"></i></a>
                                 </div>
                             </div><!-- end image-wrap -->
 
                             <div class="blog-desc">
-                                <h4><a href="blog-single.html">The most suitable web design & development tutorials of 2019</a></h4>
+                                <h4>The most suitable web design & development tutorials of 2019</a></h4>
 
                             </div><!-- end blog-desc -->
 
@@ -606,13 +607,12 @@
                         <div class="blog-box">
                             <div class="image-wrap entry">
                                 <img src="upload/surabaya.jpg" alt="" class="img-responsive">
-                                <div class="magnifier">
-                                     <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
+                                <div class="magnifier"><i class="flaticon-add"></i></a>
                                 </div>
                             </div><!-- end image-wrap -->
 
                             <div class="blog-desc">
-                                <h4><a href="blog-single.html">Tuladha goes online in Bandung and Surabaya"</a></h4>
+                                <h4>Tuladha goes online in Bandung and Surabaya"</a></h4>
 
                             </div><!-- end blog-desc -->
 
@@ -656,7 +656,7 @@
                                 <p>You can opt out of our newsletters at any time.<br> See our <a >privacy policy</a>.</p>
                                 <form class="form-inline" role="search">
                                     <div class="form-1">
-                                        <input type="email" class="form-control" placeholder="Enter email here.."required>
+                                        <input type="email" class="form-control" placeholder="Enter email here.." required>
                                         <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane-o"></i></button>
                                     </div>
                                 </form>
@@ -667,9 +667,11 @@
 
                     <div class="col-lg-3 col-md-3">
                         <div class="widget clearfix">
+                          <div class="tags-widget">
                             <h3 class="widget-title">Join us today</h3>
                             <p>Would you like to earn your profits by joining our team? Join us without losing time.</p>
-                            <a  class="readmore">Become a Tutor</a>
+                            <a >Become a Tutor!</a>
+                          </div>
                         </div><!-- end widget -->
                     </div><!-- end col -->
 
@@ -697,7 +699,8 @@
                         <div class="widget clearfix">
                             <h3 class="widget-title">Support</h3>
                             <div class="list-widget">
-                                <ul>
+                              <div class="tags-widget">
+                                <ul class="list-inline">
                                     <li><a >Terms of Use</a></li>
                                     <li><a >Copyrights</a></li>
                                     <li><a >Create a Ticket</a></li>
