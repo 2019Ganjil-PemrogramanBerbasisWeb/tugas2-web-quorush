@@ -100,13 +100,13 @@
                                           <span class="icon-bar"></span>
                                       </button>
                                       <div class="logo-normal">
-                                          <a class="navbar-brand" href="index.php"><img src= alt=""></a>
+                                          <a class="navbar-brand" href="welcome.php"><img src= alt=""></a>
                                       </div>
                                   </div>
 
                                   <div id="navbar" class="navbar-collapse collapse">
                                       <ul class="nav navbar-nav navbar-right">
-                                          <li><a href="index.php">Home</a></li>
+                                          <li><a href="welcome.php">Home</a></li>
                                           <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Courses <b class="fa fa-angle-down"></b></a>
                                               <ul class="dropdown-menu">
                                                   <li>
