@@ -1,5 +1,8 @@
 <?php
-  session_start();
+  //session_start();
+
+  require_once "konfigurasi.php";
+  $loginURL = $gClient->createAuthUrl();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -62,7 +65,16 @@
 							<input type="submit" class="login100-form-btn" value="LogIn" >
 						</a>
 						</div>
-
+			<div class="pt-3 mx-auto pb-1">
+          <button class="btn btn-block btn-social btn-google text-light" type="button" style="height: 40px" onclick="window.location='<?php echo $loginURL ?>';">
+           <span class="fa fa-google"></span> Log in with Google
+          </button>
+         </div>
+         <div class="pt-0 mx-auto">
+         <button class="btn btn-block btn-social btn-facebook text-light">
+           <span class="fa fa-facebook"></span> Log in with Facebook
+          </button>
+         </div>
 						<div class="text-center p-t-5">
 							<a class="txt2">Don't have an account yet?</a><a class="txt1" href="signup.php">     Sign Up</a>
 					</form>
@@ -70,6 +82,7 @@
 				</div>
 			</div>
 		</div>
+
 
 
 		<div id="dropDownSelect1"></div>
@@ -89,6 +102,8 @@
 	<script src="vendor login/countdowntime/countdowntime.js"></script>
 <!--===============================================================================================-->
 	<script src="js login/main.js"></script>
+
+
 
 </body>
 </html>

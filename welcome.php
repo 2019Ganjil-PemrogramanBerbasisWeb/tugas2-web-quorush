@@ -1,3 +1,8 @@
+<?php
+    require_once "konfigurasi.php";
+    $loginURL = $gClient->createAuthURL();
+
+?>
 <!doctype html>
 <!--[if IE 9]> <html class="no-js ie9 fixed-layout" lang="en"> <![endif]-->
 <!--[if gt IE 9]><!--> <html class="no-js " lang="en"> <!--<![endif]-->
@@ -141,6 +146,9 @@
                                 </ul>
                             </li>
                             <li><a href="events.php">Events</a></li>
+                            <li><a href="#">
+                            <?php if(isset($_SESSION['name'])) {echo $_SESSION['name']; }
+                                    else {echo "User";} ?></a></li>
                             <li><a href="page-contact.php">Contact</a></li>
                             <li><a href="logout.php">Log Out</a></li>
                         </ul>

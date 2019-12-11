@@ -15,6 +15,6 @@
               } else {
                 echo "Gagal";
               }
-              header("location:../tugas2-web-quorush/");
+              header("location:../tugas2-web-quorush-master2/");
             }
           ?>

@@ -24,9 +24,9 @@ if($cek > 0)
     $_SESSION['balance'] = $getData['balance'];
   }
   setcookie("mesage", "delete", time()-1); //hapus pesan setcookie
-  header("location:index.php");
+  header("location:welcome.php");
 }
 else {
-  header("location:index.php?pesan=gagal");
+  header("location:welcome.php?pesan=gagal");
 }
 ?>
